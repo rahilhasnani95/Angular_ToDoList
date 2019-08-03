@@ -1,4 +1,4 @@
-# This is a Basic ToDo List Application build using Angular 
+# This is a Basic ToDo List Application built using Angular 
 
 # Todo
 
